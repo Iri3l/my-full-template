@@ -1,0 +1,65 @@
+
+
+#brand {
+	font-family: 'Skranji', cursive;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: rgba(0, 0, 0, 0.938);
+}
+
+.navbar {
+	background-color: transparent;
+	position: relative;
+	z-index: 4; 
+}
+
+.nav-link {
+	font-size: 14px;
+}
+
+main {
+    position: absolute; 
+	top: 0%;
+    z-index: 0;
+    width:100%
+
+}
+.site-wrapper {
+    height: 800px;
+}
+
+
+
+.carousel-control-prev, .carousel-control-next {
+	width: 8%;
+}
+.section-1 {
+    margin-top: 5px;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.712)
+}
+
+.parallax {
+    background-image: url("../images/13.jpg");
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+@media (max-width: 600px) {
+  .site-wrapper {
+      height: 240px;
+  }
+}
+
+@media (min-width:900px) {
+    .site-wrapper {
+    height: 1080px;
+    }
+}
