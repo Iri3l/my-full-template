@@ -27,17 +27,16 @@ main {
     width:100%
 
 }
+
 .site-wrapper {
-    height: 800px;
+    height: 1060px;
 }
-
-
 
 .carousel-control-prev, .carousel-control-next {
 	width: 8%;
 }
 .section-1 {
-    margin-top: 5px;
+    padding-top: 5px;
 }
 
 .card {
@@ -52,14 +51,57 @@ main {
     height: 500px;
 }
 
-@media (max-width: 600px) {
-  .site-wrapper {
-      height: 240px;
-  }
+.contact-us {
+    color: crimson;
 }
 
-@media (min-width:900px) {
+  @media only screen and (max-device-width:665px) {
     .site-wrapper {
-    height: 1080px;
+        height: 220px;
+    }
+    .col-md-4 {
+        margin: 5% 0%;
+    }
+    .carousel-control-next, .carousel-control-prev {
+        display: none;
     }
 }
+
+ @media (min-device-width:667px){
+    .site-wrapper {
+        height: 445px;
+    }
+    .col-md-4 {
+        margin: 5% 0%;
+    }
+ }
+
+@media only screen and (min-device-width:1024px) {
+    .site-wrapper {
+        height: 645px;
+    }
+    .col-md-4 {
+        margin: 5% 0%;
+    }
+}
+ 
+ @media only screen and (min-device-width:1360px) {
+    .site-wrapper {
+        height: 800px;
+    }
+    .col-md-4 {
+        margin: 5% 0%;
+    }
+}
+ 
+ @media only screen and (min-device-width:1400px) {
+    .site-wrapper {
+        height: 1060px;
+    }
+    .col-md-4 {
+        margin: 5% 0%;
+    }
+}
+ 
+ 
+
