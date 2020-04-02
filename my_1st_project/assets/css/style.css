@@ -54,6 +54,10 @@ main {
 .contact-us {
     color: crimson;
 }
+.counter {
+    text-align: center;
+    padding-top: 50px;
+}
 
   @media only screen and (max-device-width:665px) {
     .site-wrapper {

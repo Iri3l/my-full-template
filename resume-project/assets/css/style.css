@@ -78,6 +78,11 @@ h4 {
     margin-bottom: 40px;
 }
 
+img {
+    border: 0;
+}
+
+
  /*.................. Heading...... */
 
 
@@ -202,6 +207,7 @@ h4 {
 
  .social-links {
      padding-bottom: 15px;
+     margin-left: -8%;
  }
 
  .social-links li a i {
@@ -379,3 +385,43 @@ h4 {
        }
    }
 
+  @media(min-width: 992px) {
+       .center-form {
+           padding-top: 30px;
+           min-height: 240px;
+           margin: 0 auto;
+           max-width: 50%;
+       }
+   }
+
+    @media(min-width:370px) {
+  .social-links {
+    margin-left: -13%;
+  }
+}
+
+@media(min-width:760px) {
+  .social-links {
+    margin-left: -20%;
+    }
+  }
+
+  @media(min-width:1020px) {
+  .social-links {
+    margin-left: -15%;
+    }
+  }
+
+    @media(min-width:1080px) {
+  .social-links {
+    margin-left: -8%;
+    }
+  }
+
+
+/*.................. Counter ...... */
+
+.counter {
+    text-align: center;
+    padding-bottom: 40px;
+}
