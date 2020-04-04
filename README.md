@@ -22,6 +22,8 @@ This is the most beautiful CV I ever had, I'm in love with my CV (I meant create
 
  **04.04.2020**  Offer alert added in index.html and CSS, added TODO.md as reminder for myself.
  Added in social network "Slack" and "GitHub".
+ **All my projects were added in "resume-project" -> "assets" -> "testArea"**
+ 
 
 ## 3. User Centric Front End Development Project 
 This can be found in my_1st_project (ongoing project)
