@@ -9,13 +9,18 @@ I hope to add many many beautiful projects here too.
 is my second
 
 ## 2.resume-project ( http://www.lazarovici.co.uk) Testing area :)
-there is the most beautiful CV I ever had, I'm in love with my CV (I meant created by you and copied by me)
-01.04.20 added Facebook LinkedIn links to my CV, working on my CV project www.lazarovici.co.uk.
-02.04.20 update the links form menu buttons to link to my logo from every page is now working.
+This is the most beautiful CV I ever had, I'm in love with my CV (I meant created by you and copied and edited by me).
+   
+   
+**01.04.20** added Facebook LinkedIn links to my CV, working on my CV project www.lazarovici.co.uk.
+
+
+**02.04.20** update the links form menu buttons to link to my logo from every page is now working.
     Counter is now centered and moved to a beautiful height.
     Social media updated in CSS and HTML copyright added.
- 04.04.2020   Offer alert added in index.html and CSS, added TODO.md as reminder for myself.
 
+
+ **04.04.2020**  Offer alert added in index.html and CSS, added TODO.md as reminder for myself.
 
 ## 3. User Centric Front End Development Project 
 This can be found in my_1st_project (ongoing project)
