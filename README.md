@@ -14,6 +14,7 @@ there is the most beautiful CV I ever had, I'm in love with my CV (I meant creat
 02.04.20 update the links form menu buttons to link to my logo from every page is now working.
     Counter is now centered and moved to a beautiful height.
     Social media updated in CSS and HTML copyright added.
+ 04.04.2020   Offer alert added in index.html and CSS, added TODO.md as reminder for myself.
 
 
 ## 3. User Centric Front End Development Project 
