@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Skranji');
+@import url('https://fonts.googleapis.com/css?family=Comic+Neue&display=swap|Skranji');
 
 *{
     margin: 0;
@@ -8,8 +8,9 @@
 
 body {
     color: black;
-    font-family: 'Dancing Script', cursive;
-    color: #777777;ß
+    font-family: 'Comic Neue', cursive;
+    color: #777777;
+    background-color: #DEDDDD;
 }
 
 h2  {
@@ -91,7 +92,7 @@ h2  {
     padding-top:40px;
     padding-left:10px;
 
-    background-color: rgba(241, 109, 107, .7);
+    background-color: rgba(210, 192, 192, .7);
 
     bottom: 30px;
     right: 150px;
@@ -113,6 +114,7 @@ h2  {
     padding-top: 30px;
     width: 33%;
     float: right;
+    text-align: right;
 }
 
 #center-about {
@@ -149,7 +151,7 @@ hr {
     text-align: right;
 }
 
-#welcome {
+#welcome, #common-services {
     text-align: center;
     margin: 20px 0;
     font-size: 280%;
@@ -160,7 +162,7 @@ hr {
     height: 300px;
     padding: 30px;
     border-style: solid;
-    border-color: #cccccc;
+    border-color: #080808;
     border-width: 1px;
     border-radius: 50%;
     margin:  0 auto;
