@@ -169,11 +169,54 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url("https://lh3.googleusercontent.com/proxy/koafX7ZFHfsoGmP2j_WPA_c67PyBzNc5ptDItsIOMvQbIFy9CdEPMTWAoyTrsWxONEUXxSee_myoyhIRYI-mtd7iqK0WIVUOU7tn8CLoqrpr3bSL76gSFhoZ_mCYHKnDQKuaN4tmCep4ZMYl4EGtlIWLHw") no-repeat center center;
+    background: url("https://ps.w.org/maintenance-mode-and-under-construction-page/assets/icon-256x256.jpg?rev=2156122") no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 
 #services {
-    background-image: url("https://alsarh.ae/wp-content/uploads/2019/12/item_2605173_842.jpeg");
+    background-image: url("https://images.pexels.com/photos/269063/pexels-photo-269063.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    
+}
+
+#common-services {
+    color: #fafafa;
+   background-color: rgba(0, 0, 0, .6);
+}
+
+#services div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 19%;
+    height: 200px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    margin: 3px;
+}
+
+footer {
+    height: 150px;
+}
+
+		
+.social-networks {
+    text-align: center;
+
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
 }
