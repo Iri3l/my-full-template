@@ -24,6 +24,7 @@ This is the most beautiful CV I ever had, I'm in love with my CV (I meant create
  Added in social network "Slack" and "GitHub".
  **All my projects were added in "resume-project" -> "assets" -> "testArea" and all the updates can be found in the resume-project README** 
  
+ **17.04.2020** PHP added to submit form on resume-project and Johnplm, pictures for Johnplm gallery were changed.
 
 ## 3. User Centric Front End Development Project 
 This can be found in my_1st_project (ongoing project)
