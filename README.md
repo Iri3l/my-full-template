@@ -25,7 +25,8 @@ This is the most beautiful CV I ever had, I'm in love with my CV (I meant create
  **All my projects were added in "resume-project" -> "assets" -> "testArea" and all the updates can be found in the resume-project README** 
  
  **17.04.2020** PHP added to submit form on resume-project and Johnplm, pictures for Johnplm gallery were changed.
- **27.04.2020** Counter deleted, not secure for SSL certificate
+ **27.04.2020** Counter deleted, not secure for SSL certificate, new SSL certificate added on the domain 
+ **28.04.2020** "Test area modified and section will be dedicated to customers, new icon added"
 
 ## 3. User Centric Front End Development Project 
 This can be found in my_1st_project (ongoing project)
