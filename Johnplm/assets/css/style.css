@@ -55,7 +55,7 @@ h2  {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url("https://images.pexels.com/photos/804392/pexels-photo-804392.jpeg?cs=srgb&dl=unfinished-wall-804392.jpg&fm=jpg") no-repeat center center;
+    background: url("https://images.pexels.com/photos/392031/pexels-photo-392031.jpeg?cs=srgb&dl=architecture-blur-building-colourful-392031.jpg&fm=jpg") no-repeat center center;
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
