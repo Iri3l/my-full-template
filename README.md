@@ -48,3 +48,13 @@ Thinking to make an application which can be downloaded from the AppStore that w
 Most used are HTML and CSS. 
 * But also few lines of PHP code for the contact form to be responsive,  where the visitor can contact me. 
  
+ ## Testing
+
+The site was tested on different types of mobile phones, tablets and PC. The most critical issue which took me time to sort it out was with the footer of the page, the alignment of the icons varies on windows products and apple products, and the same on android and iOS. 
+But this was corrected now, and as far I am aware everything is working and looking as its should.
+The contact form is working good, and it is responsive as well. 
+
+## Deployment
+
+
+
