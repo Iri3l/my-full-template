@@ -55,6 +55,22 @@ But this was corrected now, and as far I am aware everything is working and look
 The contact form is working good, and it is responsive as well. 
 
 ## Deployment
+The first version is on GitHub https://github.com/Iri3l/my-full-template/blob/master/resume-project/index.html this is where this project was created. 
+Then the version was moved on a different branch and downloaded on to PC too. 
+I use Visual Studio Code to edit/upgrade the code on my PC version. Then I used Cyberduck for transferring the code to my hosting server.
 
+The code on GitHub is not complete and is not upgraded due to my hectic time, was easy for me to work on my PC because sometimes the internet connection was poor.
 
+The latest version of the project is hosted on https://lazarovici.co.uk/ 
+
+## Credits
+
+### Content
+ The content belongs to Code Institute most of it, and I'm happy to promote this.
+
+### Media
+The picture used on the main page is from social network and edited. The rest of the pictures are from free sites or made by my clients, nothing to need copyright permission.
+
+### Acknowledgements
+I also use random YouTube channels to get the information need it to make everything work.
 
