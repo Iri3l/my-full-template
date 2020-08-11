@@ -446,3 +446,16 @@ img {
 
 
 /*.................. Counter ...... */
+
+h6 {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+ /* Site info , visitors and security */
+ .site-info {
+    display: -webkit-inline-box;
+}
+.img-responsive {
+    padding-left: 10px;
+}
