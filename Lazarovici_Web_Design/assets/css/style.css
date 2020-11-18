@@ -256,7 +256,7 @@ img {
  }
 
  #footer-details {
-     padding: 20px;Ï
+     padding: 20px;
  }
 
 
@@ -444,6 +444,19 @@ img {
     }
   }
 
+@media(min-width:360px) {
+  .partner {
+    margin-left: 21%;
+    margin-bottom: 20px;
+    }
+  }
+
+  @media(min-width:260px) {
+      .partner {
+          margin-left: 9%;
+    margin-bottom: 15px;
+      }
+  }
 
 /*.................. Counter ...... */
 
