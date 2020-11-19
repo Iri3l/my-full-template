@@ -26,8 +26,8 @@
 .ui-menu-color-contact {
     background-color: #3498db;
 }
-.ui-menu-color-download {
-    background-color: #525252;
+.menu-color-offers {
+    background-color: #24aaa8;
 }
 
 .bg-color-personal-info {
@@ -94,7 +94,7 @@ h4 {
 .section-column {
     display: table-cell;
     padding: 0 30px 30px;
-    float: none;Ï
+    float: none;
 }
 .history-heading,
 .section-heading {
@@ -400,6 +400,16 @@ img {
        background-color: #e84610;
    }
 
+  .partner {
+    margin-left: 21%;
+    margin-bottom: 20px;
+    }
+ 
+      .partner {
+          margin-left: 9%;
+    margin-bottom: 15px;
+      }
+
    /*.................. Media Queries...... */
 
    @media(min-width: 992px) {
@@ -444,20 +454,19 @@ img {
     }
   }
 
-@media(min-width:360px) {
-  .partner {
-    margin-left: 21%;
-    margin-bottom: 20px;
+/* @media(max-width:1000px) {
+  .row {
+   text-align: center; 
     }
   }
 
-  @media(min-width:260px) {
+ @media(min-width:260px) {
       .partner {
-          margin-left: 9%;
+          margin-left: 9% auto;
     margin-bottom: 15px;
       }
-  }
-
+  }   
+*/ 
 /*.................. Counter ...... */
 
 h6 {
