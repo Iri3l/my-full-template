@@ -13,7 +13,7 @@ body {
 .offers {
     margin: 90px auto;
     text-align: center;
-    margin-top: 20%;
+    margin-top: 5%;
 }
 
 h2 {
@@ -77,6 +77,7 @@ h1 {
 .container-fluid {
     width: 40%;
     text-align-last: center;
+    margin-top: 40px;
 }
 .container-fluid a {
     color: whitesmoke;
