@@ -84,8 +84,94 @@ h1 {
     text-decoration: none;
     letter-spacing: 1px;
 }
+.container-offers {
+    margin-top: 100px;
+}
   @media(max-width:1024px) {
       .container-fluid {
           width: auto;
       }
   } 
+
+  .price {
+      color: rgb(36, 127, 230);
+      letter-spacing: 1px;
+  }
+
+  /** ......... CUBE SECTION ....... **/
+
+  * {
+      box-sizing: border-box;
+  }
+
+  section {
+      position: relative;
+      width: 100%;
+      height: 100vh;
+      margin-top: 50px;
+  }
+
+  section .box {
+      position: absolute;
+      top: calc(50% - 200px);
+      left: calc(50% - 200px);
+      width: 400px;
+      height: 400px;
+      transform-style: preserve-3d;
+  }
+
+  section .box div {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      transform-style: preserve-3d;
+      transform: rotateX(-20deg) rotateY(25deg) translate3d(-75px, -50px,150px);
+  }
+
+  section .box div span {
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: block;
+      width: 100%;
+      height: 100%;   
+      border: 1px; solid rgba(0,0,0,.1);
+      background: #ccc;
+  }
+  section .box div span video {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: blur(0px);
+  }
+
+  section video {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: blur(20px);
+  }
+  section .box div span:nth-child(1) {
+      transform: rotateX(0deg) translate3d(0,0,200px);
+  }
+
+  section .box div span:nth-child(2) {
+    transform: rotateY(90deg) translate3d(0,0,-200px);
+}
+
+section .box div span:nth-child(2) video {
+    transform: rotateY(180deg);
+
+}
+
+section .box div span:nth-child(3) {
+    transform: rotateX(90deg) translate3d(0,0,200px);
+}

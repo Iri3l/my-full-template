@@ -74,3 +74,9 @@ The picture used on the main page is from social network and edited. The rest of
 ### Acknowledgements
 I also use random YouTube channels to get the information need it to make everything work.
 
+
+### NEW UPDATES
+
+* The customers section has been replaced with SERVICES page. A landing page which offers information about the prices.
+
+
