@@ -176,6 +176,9 @@ section .box div span:nth-child(3) {
     transform: rotateX(90deg) translate3d(0,0,200px);
 }
 
-
+.my-logo {
+    width: 100px;
+    height: 100px;
+}
 
 
