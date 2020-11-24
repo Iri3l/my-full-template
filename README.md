@@ -1,6 +1,6 @@
 # Lazarovici Web Design
 
-**Welcome!**
+## Welcome!
 
 This project is my online CV  where I want to show to my clients and my employers who I am and what I'm doing. I also work on adding different projects on what I'm working on so everyone can see them.
 
@@ -37,7 +37,7 @@ The idea of this project is to offer to my potential clients, and my potential e
     a) include a contact form where the visitor can fill it up then press the send button, and I can receive the email which allows me to contact back the person.
 4. Customers page
 
-	a) at the moment is a temporary page where can be found the projects(clients) that I work.			 
+	a) at the moment is a temporary page where can be found the SERVICES that I can offer.			 
 
 ## Features Left to Implement
 
@@ -61,7 +61,7 @@ I use Visual Studio Code to edit/upgrade the code on my PC version. Then I used 
 
 The code on GitHub is not complete and is not upgraded due to my hectic time, was easy for me to work on my PC because sometimes the internet connection was poor.
 
-The latest version of the project is hosted on https://lazarovici.co.uk/ 
+The latest version of the project is hosted on https://www.lazarovici.co.uk/
 
 ## Credits
 
@@ -75,8 +75,8 @@ The picture used on the main page is from social network and edited. The rest of
 I also use random YouTube channels to get the information need it to make everything work.
 
 
-### NEW UPDATES
+## NEW UPDATES
 
-* The customers section has been replaced with SERVICES page. A landing page which offers information about the prices.
+* The CUSTOMERS section has been replaced with SERVICES page. A landing page which offers information about the prices.
 
 
