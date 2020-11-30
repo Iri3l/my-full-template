@@ -181,4 +181,11 @@ section .box div span:nth-child(3) {
     height: 100px;
 }
 
+.bark {
+    padding-left: 10px;
+}
+.footer {
+    
+    display: -webkit-inline-box;
+}
 
