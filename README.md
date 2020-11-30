@@ -16,10 +16,6 @@ The idea of this project is to offer to my potential clients, and my potential e
 ## Features 
 
 * Continuously working on this project to make a detailed ABOUT ME and my work.
-* The entire project is offering to visitors all the information about my work and a list of clients(projects) that may be useful for the ones who are visiting my page.
-* I want to link to this another page where I intend to create a small search engine for job offers, where companies can look for workers and also workers looking for a job on their area. The intention is to start doing it for one city 
-  and then slowly add another city, a small gumtree, for example. If everything goes well, then I can extend it by adding adds of products and offers for different types of sales that are in each area, and who knows in one day I will 
-  create an application for phones which can be added in AppStore or PlayStore.
 
 ## Existing Features
 
@@ -77,6 +73,6 @@ I also use random YouTube channels to get the information need it to make everyt
 
 ## NEW UPDATES
 
-* The CUSTOMERS section has been replaced with SERVICES page. A landing page which offers information about the prices.
+* The CUSTOMERS section has been replaced with SERVICES page. A landing page which offers information about the offers and prices.
 
 
